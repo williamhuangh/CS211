@@ -1,0 +1,1 @@
+../../../HelloVR_KimSHuangW/HelloVR_KimSHuangW.uproject  /Game/Maps/HelloVR_HuangWilliam -Messaging -SessionId=5689B04741C48D2CB9EB37B4606F1C23 -SessionOwner=CS210 -SessionName='Play On Device' -iterative

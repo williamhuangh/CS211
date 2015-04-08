@@ -1,0 +1,76 @@
+﻿Log file open, 04/02/15 22:49:21
+LogInit:Display: Running engine for game: HelloVR_KimSHuangW
+LogInit: Version: 4.7.4-2497108+++depot+UE4-Releases+4.7
+LogInit: API Version: 2455222
+LogInit: Compiled (64-bit): Mar 31 2015 09:40:25
+LogInit: Compiled with Visual C++: 18.00.21005.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++depot+UE4-Releases+4.7
+LogInit: Command line:  /Temp/Autosaves/Game/Maps/UEDPCCornellBox -game -PIEVIACONSOLE -ResX=1280 -ResY=720  -Multiprocess 
+LogInit: Base directory: C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/
+LogInit: Rocket: 1
+[2015.04.03-05.49.21:631][  0]LogTaskGraph: Started task graph with 3 named threads and 7 total threads.
+[2015.04.03-05.49.21:706][  0]LogOnline:Warning: No default platform service specified for OnlineSubsystem
+[2015.04.03-05.49.21:727][  0]LogInit: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
+[2015.04.03-05.49.21:736][  0]LogInit: Object subsystem initialized
+[2015.04.03-05.49.21:737][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'TranslucentSortAxis = (X=0.000000,Y=-1.000000,Z=0.000000)'
+[2015.04.03-05.49.21:737][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/CS210/Documents/Unreal Projects/HelloVR_KimSHuangW/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2015.04.03-05.49.21:737][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleRule = ShortestSide'
+[2015.04.03-05.49.21:737][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/CS210/Documents/Unreal Projects/HelloVR_KimSHuangW/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2015.04.03-05.49.21:737][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleCurve = (EditorCurveData=(Keys=),ExternalCurve=None)'
+[2015.04.03-05.49.21:737][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/CS210/Documents/Unreal Projects/HelloVR_KimSHuangW/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2015.04.03-05.49.21:738][  0]LogInit: Selected Device Profile: [Windows]
+[2015.04.03-05.49.21:738][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2015.04.03-05.49.21:742][  0]LogInit: Computer: CS210-WS-02
+[2015.04.03-05.49.21:742][  0]LogInit: User: CS210
+[2015.04.03-05.49.21:742][  0]LogInit: CPU Page size=4096, Cores=6
+[2015.04.03-05.49.21:742][  0]LogInit: High frequency timer resolution =3.215263 MHz
+[2015.04.03-05.49.21:742][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx) Virtual=8192.0GB
+[2015.04.03-05.49.21:743][  0]LogMemory: Platform Memory Stats for Windows
+[2015.04.03-05.49.21:743][  0]LogMemory: Process Physical Memory: 49.58 MB used, 49.58 MB peak
+[2015.04.03-05.49.21:743][  0]LogMemory: Process Virtual Memory: 29.59 MB used, 29.59 MB peak
+[2015.04.03-05.49.21:743][  0]LogMemory: Physical Memory: 3815.64 MB used, 16271.58 MB total
+[2015.04.03-05.49.21:743][  0]LogMemory: Virtual Memory: 285.55 MB used, 8388608.00 MB total
+[2015.04.03-05.49.21:839][  0]LogD3D11RHI: Found D3D11 adapter 0: NVIDIA GeForce GTX 980 (Feature Level 11_0)
+[2015.04.03-05.49.21:839][  0]LogD3D11RHI: Adapter has 3972MB of dedicated video memory, 0MB of dedicated system memory, and 7879MB of shared system memory, 1 output[s]
+[2015.04.03-05.49.21:839][  0]LogD3D11RHI: Chosen D3D11 Adapter Id = 0
+[2015.04.03-05.49.21:852][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2015.04.03-05.49.21:864][  0]LogD3D11RHI: Async texture creation enabled
+[2015.04.03-05.49.21:918][  0]LogTextLocalizationManager: The requested culture ('en_US') has no localization data; parent culture's ('en') localization data will be used.
+[2015.04.03-05.49.21:982][  0]LogTextLocalizationManager:Warning: Loading localization resources contain conflicting entries for (Namespace:UICommands, Key:Save_ToolTip):
+Resource: (C:/Program Files/Epic Games/4.7/Engine/Content/Localization/Editor/en/Editor.locres) Hash: (-29098895) String: (Saves the current level to disk)
+Resource: (C:/Program Files/Epic Games/4.7/Engine/Content/Localization/Engine/en/Engine.locres) Hash: (-1280300587) String: (Save selected data to vlog file)
+[2015.04.03-05.49.21:982][  0]LogTextLocalizationManager:Warning: Loading localization resources contain conflicting entries for (Namespace:ContentBrowser, Key:ImportAssetToolTip):
+Resource: (C:/Program Files/Epic Games/4.7/Engine/Content/Localization/Editor/en/Editor.locres) Hash: (-630476809) String: (Import to {0}...)
+Resource: (C:/Program Files/Epic Games/4.7/Engine/Content/Localization/Editor/en/Editor.locres) Hash: (1271782899) String: (Imports an asset from file to this folder.)
+[2015.04.03-05.49.22:061][  0]LogContentStreaming: Texture pool size is 1000.000000MB
+[2015.04.03-05.49.24:171][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2015.04.03-05.49.24:716][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2015.04.03-05.49.24:802][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2015.04.03-05.49.24:840][  0]LogDerivedDataCache: Loaded boot cache 0.04s 39MB C:/Users/CS210/AppData/Local/UnrealEngine/4.7/DerivedDataCache/Boot.ddc.
+[2015.04.03-05.49.24:840][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/CS210/AppData/Local/UnrealEngine/4.7/DerivedDataCache/Boot.ddc
+[2015.04.03-05.49.24:840][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/CS210/Documents/Unreal Projects/HelloVR_KimSHuangW/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2015.04.03-05.49.24:840][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2015.04.03-05.49.24:956][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2015.04.03-05.49.24:967][  0]LogDerivedDataCache: Using Local data cache path C:/Users/CS210/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2015.04.03-05.49.25:246][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2015.04.03-05.49.25:246][  0]LogMeshUtilities: No automatic mesh merging module available
+[2015.04.03-05.49.25:563][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2015.04.03-05.49.25:990][  0]LogWindowsMoviePlayer: Unable to load movie: ../../../../../../Users/CS210/Documents/Unreal Projects/HelloVR_KimSHuangW/Content/Movies/Default_Startup.mp4
+[2015.04.03-05.49.26:140][  0]LogSourceControl: RunCommandInternalRaw: 'git version'
+[2015.04.03-05.49.26:140][  0]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=2 OutResults=''
+[2015.04.03-05.49.26:167][  0]SourceControl: Info Source control is disabled
+[2015.04.03-05.49.26:167][  0]SourceControl: Info Source control is disabled
+[2015.04.03-05.49.26:167][  0]SourceControl: Info Source control is disabled
+[2015.04.03-05.49.26:177][  0]SourceControl: Info Source control is disabled
+[2015.04.03-05.49.26:285][  0]LogObj: 23971 objects as part of root set at end of initial load.
+[2015.04.03-05.49.26:285][  0]LogUObjectAllocator: 4988928 out of 0 bytes used by permanent object pool.
+[2015.04.03-05.49.26:357][  0]LogAutomationTest:Warning: ERR: Transient text cannot be serialized "Testing Transient serialization detection".
+[2015.04.03-05.49.26:357][  0]LogEngine: Initializing Engine...
+[2015.04.03-05.49.26:363][  0]LogHMD:Warning: HMD Oculus Rift DK2, Monitor , res = 1920 x 1080, windowPos = {0, 0}
+[2015.04.03-05.49.26:365][  0]LogHMD: Oculus plugin initialized. Version: 4.7.4-2497108+++depot+UE4-Releases+4.7, LibOVR: 0.4.4, built Mar 31 2015, 09:41:24
+[2015.04.03-05.49.26:486][  0]LogInit: XAudio2 using 'Speakers (Sound Blaster Recon3Di)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2015.04.03-05.49.26:496][  0]LogInit: FAudioDevice initialized.
+[2015.04.03-05.49.26:500][  0]LogInit: Texture streaming: Enabled
+[2015.04.03-05.49.26:573][  0]LogAnalytics: Creating configured Analytics provider AnalyticsET
+[2015.04.03-05.49.26:573][  0]LogAnalytics: ET APIKey = Rocket.Rele
